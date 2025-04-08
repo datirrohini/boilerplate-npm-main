@@ -1,7 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "RD",
-	"description": "A project that does something awesome",
+	"name": "fcc-learn-npm-package-json",	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,7 +12,9 @@
 		"url": "https://github.com/datirrohini/boilerplate-npm-main.git"
 	},
 	"version": "1.0.0",
-	"keywords": [],	
+	"author": "RD",
+	"description": "A project that does something awesome",
+	"keywords": ["descriptive","related","words","freecodecamp"],	
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
